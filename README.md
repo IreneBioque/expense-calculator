@@ -30,7 +30,7 @@ npm install
 ```
 npm install
 ```
-## Como visualizar la página en local / How to view the page locally
+## Como visualizar la página en local / How to view the page in your pc 👀
 Para poder visualizar la página desde tu equipo, tienes que abrir el index. Si vas a modificar algo, te recomiendo usar la extensión de VisualCode Live server, podrás encontrarla [aquí](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) 
 
 To be able to view the page from your computer, you have to open the index. If you are going to modify something, I recommend you to use the VisualCode Live server extension, you can find it [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) 
