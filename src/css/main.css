@@ -17,6 +17,8 @@ header{
     background-color: darkslateblue;
     padding: 10px;
     color: white;
+    text-align: center;
+    font-size: 35px;
 }
 main{
     width: 600px;
